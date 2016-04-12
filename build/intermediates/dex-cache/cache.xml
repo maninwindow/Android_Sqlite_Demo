@@ -2,60 +2,60 @@
 <items version="2" >
 
     <item
-        jar="/Users/alimjan/Android_Sqlite_Demo/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
-        <dex dex="/Users/alimjan/Android_Sqlite_Demo/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.2.1_e99d000e45698505f1ccba068cbb8a8a91c57ceb.jar" />
-    </item>
-    <item
-        jar="/Users/alimjan/Android_Sqlite_Demo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
-        <dex dex="/Users/alimjan/Android_Sqlite_Demo/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.1_d22b8f21e9aa8be2f616f618021039f383aebf28.jar" />
-    </item>
-    <item
-        jar="/Users/alimjan/Android_Sqlite_Demo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="673d77a5bbddd766037f088e775df525c46407f0">
-        <dex dex="/Users/alimjan/Android_Sqlite_Demo/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.1_8657e80d00dbdf78b60d2e43de79b8bf6306fb8b.jar" />
-    </item>
-    <item
-        jar="/Users/alimjan/Android_Sqlite_Demo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jar="D:\Android\GitHub\Android_Sqlite_Demo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
-        <dex dex="/Users/alimjan/Android_Sqlite_Demo/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1_bf521a0b586ab9a172f48edeffd0b6b7f449afe8.jar" />
+        <dex dex="D:\Android\GitHub\Android_Sqlite_Demo\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1_96582150f2a9defceb8bc51800f6140ee0bd4e60.jar" />
     </item>
     <item
-        jar="/Users/alimjan/Android_Sqlite_Demo/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.1/jars/classes.jar"
+        jar="D:\Android\GitHub\Android_Sqlite_Demo\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\jars\classes.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
-        <dex dex="/Users/alimjan/Android_Sqlite_Demo/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.1_17e51e4fdcf9e35a5893286626425eda9c1a9090.jar" />
+        <dex dex="D:\Android\GitHub\Android_Sqlite_Demo\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.2.1_9d839c4a268d97786c368914b5d188a3d55920e6.jar" />
     </item>
     <item
-        jar="/Users/alimjan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jar="D:\Android\GitHub\Android_Sqlite_Demo\app\build\intermediates\exploded-aar\com.android.support\design\23.2.1\jars\classes.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
-        <dex dex="/Users/alimjan/Android_Sqlite_Demo/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1_b6ad04e8c00d7a161cfc9b840bd36b902e8b2785.jar" />
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="D:\Android\GitHub\Android_Sqlite_Demo\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.2.1_a87c1de5ac188e746c3c6edb81a11d85cc984112.jar" />
     </item>
     <item
-        jar="/Users/alimjan/Android_Sqlite_Demo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jar="D:\Android\GitHub\Android_Sqlite_Demo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
-        <dex dex="/Users/alimjan/Android_Sqlite_Demo/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.1_667d4301e58e61dc592ea5ff0c854e67054a0cc0.jar" />
+        <dex dex="D:\Android\GitHub\Android_Sqlite_Demo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.1_57bed3c30297fb4633da677baba3fd3d6b9fc689.jar" />
     </item>
     <item
-        jar="/Users/alimjan/Android_Sqlite_Demo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jar="D:\Android\GitHub\Android_Sqlite_Demo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="D:\Android\GitHub\Android_Sqlite_Demo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.1_f26fb5dcf46fc9c4b874d8448cc5e052bc3e0604.jar" />
+    </item>
+    <item
+        jar="C:\Users\v-almett-PC\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="D:\Android\GitHub\Android_Sqlite_Demo\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.1_a4fa87fe2778de94684f69adcdc84a6a4a2ca9ea.jar" />
+    </item>
+    <item
+        jar="D:\Android\GitHub\Android_Sqlite_Demo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="D:\Android\GitHub\Android_Sqlite_Demo\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.1_58563c8378858489d6cbdcaea8eac2761fbd88dc.jar" />
+    </item>
+    <item
+        jar="D:\Android\GitHub\Android_Sqlite_Demo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
-        <dex dex="/Users/alimjan/Android_Sqlite_Demo/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.1_68a51ac250ee2538d05080a2fa1fa89f97069506.jar" />
+        <dex dex="D:\Android\GitHub\Android_Sqlite_Demo\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.1_e65b7cfc7ff639140a20f17c700b6820f2c8e9f1.jar" />
     </item>
 
 </items>
